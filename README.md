@@ -17,3 +17,4 @@ Il progetto include i nomi dei 35 cinema presenti nel file e TSC Odeon Milano; i
 Carica il file Excel o CSV dalla schermata iniziale. L'importazione avviene nel browser: il file non viene inviato a un server e non è incluso in questo ZIP. I dati del piano vengono salvati nel local storage del browser. Il file CSV esportato contiene le quote calcolate.
 
 Il file di riferimento originale non è incluso per non inserire nel repository i consuntivi aziendali.
+ 
